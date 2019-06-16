@@ -26,7 +26,7 @@
             background-color: black;
             position: fixed;
             top: 0;
-			text-shadow: black 0 0 100px;
+	    text-shadow: black 0 0 100px;
             left: 0;		
         }
         body>div:first-of-type {
@@ -108,5 +108,5 @@
             color: #FFF;
         }
         footer>a:hover {
-            opacity: 0.2;
+            opacity: 0.9;
         }
