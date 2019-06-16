@@ -112,11 +112,10 @@
         }
 .bg-image {
   background-image: url("../assets/background2.gif");
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
   height: 100%;
   background-repeat: no-repeat;
   background-size: 100%;
   opacity: 0.3;
-
 }
