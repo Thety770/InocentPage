@@ -117,8 +117,8 @@
   -webkit-filter: blur(8px);
 
   height: 100%; 
-
+  background-size: 100%;
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
 }
