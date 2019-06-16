@@ -1,12 +1,3 @@
-.fundo{
-	   background-image: url("../assets/background2.gif");
-           filter: blur(2px);
-           -webkit-filter: blur(2px);
-           height: 100%;
-           background-repeat: no-repeat;
-           background-size: 100%;
-           opacity: 0.3;
-}
 * {
             font-family: "Caveat Brush";
             font-size: 30px;
