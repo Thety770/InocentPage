@@ -7,7 +7,7 @@ document.addEventListener ? document.addEventListener("DOMContentLoaded", functi
 	loaded()
 });
 var x = 0,
-	titleText = ["$", "lança", "o", "bigode", "f", "i", "n", "i", "n", " ", "joga", "o", "dinheiro", "na", "b", "i", "h"];
+	titleText = ["$", "lança", "o", "bigode", "f", "i", "n", "i", "n", "-", "joga", "o", "dinheiro", "na", "bih"];
 
 function loop() {
 	document.getElementsByTagName("title")[0].innerHTML = titleText[x++ % titleText.length]
