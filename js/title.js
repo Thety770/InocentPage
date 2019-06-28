@@ -1,4 +1,3 @@
-    <script>
     	function loaded() {
 		setInterval(loop, 500)
 		}
@@ -13,4 +12,3 @@
 		function loop() {
 		document.getElementsByTagName("title")[0].innerHTML = titleText[x++ % titleText.length]
         }
-    </script>
