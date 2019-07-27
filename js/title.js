@@ -7,7 +7,7 @@
 		loaded()
 		});
 		var x = 0,
-		titleText = ["$", "I|", "In", "Ino|", "Inoc", "Inoce|", "Inocen", "Inocent|", "I ", "Is|", "T", "Th|", "The", "B|", "Be", "Bes|", "Best"];
+		titleText = ["$", "I|", "In", "Ino|", "Inoc", "Inoce|", "Inocen", "Inocent|", "i ", "is|", "t", "th|", "the", "B|", "Be", "Bes|", "Best"];
 
 		function loop() {
 		document.getElementsByTagName("title")[0].innerHTML = titleText[x++ % titleText.length]
