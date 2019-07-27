@@ -127,8 +127,8 @@
         .glitch {
             position: relative;
             color: white;
-            font-size: 56px;
-            letter-spacing: .5em;
+            font-size: 57px;
+            letter-spacing: .3em;
             animation: glitch-skew 1s infinite linear alternate-reverse;
         }
         
